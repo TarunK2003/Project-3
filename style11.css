@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#container{
+    height: 50px;
+    width: 1200px;
+    background-color: blue;
+    border: 2px solid black;
+    
+}
+
+#nav h3{
+    justify-content: space-between;
+    font-size: 50px;
+}
